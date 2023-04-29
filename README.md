@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?GrapplerLion=DenverCoder1)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?GrapplerLion=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
