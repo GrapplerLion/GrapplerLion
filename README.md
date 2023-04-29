@@ -7,7 +7,7 @@ I got acquainted with Java more than 3 years ago. Writing tests with java from 2
 
 <table width="100%" border='0'>
     <tr>
-    <td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+    <td width="40%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
   </br>
