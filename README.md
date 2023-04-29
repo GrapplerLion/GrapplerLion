@@ -5,7 +5,15 @@ I got acquainted with Java more than 3 years ago. Writing tests with java from 2
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+QA+Engineer+software)](https://git.io/typing-svg)
 
-<tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+<table width="100%" border='0'>
+   <tr> 
+    <td width="30%" valign="bottom"><img src="/images/TSU80.jpg"></td><td valign="middle">Томский государственный исследовательский университет.</br>Факультет прикладной математики и кибернетики.</br>Математик.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="/images/FDO80.jpg"></td><td valign="middle">Томский государственный университет систем управления и радиоэлектроники.</br>Факультет дополнитеьного образования.</br>Тестирование и контроль качества программного обеспечения.</td>
+    <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   </tr>
+  </table>
+  </br>
+  
 
 **My tech stack 👨‍💻 :**
 * Java
