@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer+software)](https://git.io/typing-svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=GrapplerLion)](https://github.com/GrapplerLion/github-profile-trophy)
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GrapplerLion=anuraghazra)](https://github.com/grapplerlion/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrapplerLion)](https://github.com/GrapplerLion/github-readme-stats)
