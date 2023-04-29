@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Rustam Galeev👋</h1>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+QA+Engineer+software)](https://git.io/typing-svg)
+
 **My tech stack 👨‍💻 :**
 * Java
 * Selenide
@@ -7,21 +10,6 @@
 * Rest-Assured
 * TestNg/JUnit
 * Gradle
-
-<h1 align='center'>GitHub Stats Terminal Style</h1>
-<p align='center'>Dynamically generate GitHub stats looking like a Terminal Interface </p>
-
-<p align="center" >
-  <a href="https://github.com/GrapplerLion/github-stats-terminal-style/actions/workflows/main.yml">
-    <img src="https://github.com/GrapplerLion/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
-  </a>
-</p>
-
-<p align='center'>
-  <img align="center" src="./github_stats.svg">
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer+software)](https://git.io/typing-svg)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrapplerLion)](https://github.com/GrapplerLion/github-readme-stats)
