@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GrapplerLion=anuraghazra)](https://github.com/GrapplerLion/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GrapplerLion=anuraghazra)](https://github.com/grapplerlion/github-readme-stats)
